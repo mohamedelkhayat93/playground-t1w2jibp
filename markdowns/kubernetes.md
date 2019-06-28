@@ -13,3 +13,11 @@
 ### Deployment
 
 ![Deployment](https://raw.githubusercontent.com/wujun4code/playground-t1w2jibp/master/assets/three-tier-kubernetes-architecture.png)
+
+### Service
+
+![Service](https://raw.githubusercontent.com/wujun4code/playground-t1w2jibp/master/assets/flask-kubernetes-service-pod.png)
+
+### Ingress
+
+![Ingress](https://raw.githubusercontent.com/wujun4code/playground-t1w2jibp/master/assets/ingressoverview.png)
