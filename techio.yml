@@ -2,3 +2,5 @@ title: Docker & Kubernetes
 plan:
 - title: Docker
   statement: markdowns/docker.md
+- title: Kubernetes
+  statement: markdowns/kubernetes.md
